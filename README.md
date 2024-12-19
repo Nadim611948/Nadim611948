@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Next.js and Complete MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [Upcoming...](Upcoming...)
+- 👨‍💻 All of my projects are available at https://nadim-mostofa.vercel.app
 
 - 💬 Ask me about **React.js or JavaScript**
 
